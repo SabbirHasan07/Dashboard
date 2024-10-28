@@ -39,8 +39,8 @@ const PieChart = () => {
   };
 
   return (
-    <div className="lg:flex">
-      <div style={{ width: '170px', height: '180px' }}>
+    <div className="lg:flex gap-4 items-center m-4">
+      <div style={{ width: '150px', height: '180px' }}>
         <Pie data={data} options={options} />
       </div>
       <div>
