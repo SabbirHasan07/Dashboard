@@ -43,7 +43,7 @@ const PieChart = () => {
       <div style={{ width: '150px', height: '180px' }}>
         <Pie data={data} options={options} />
       </div>
-      <div>
+      <div className='mb-8'>
         <BarChart />
       </div>
     </div>
