@@ -7,7 +7,7 @@ import { DatesIcon } from "../icons/icons";
 const Dates = () => {
     return (
         <div className="lg:flex mt-[30px] justify-between">
-            <div className=" flex bg-white border-gray-200 rounded-lg shadow-sm  items-center px-4 py-2 items-center gap-4 bg-white border border-gray-200 rounded-lg">
+            <div className=" lg:flex bg-white border-gray-200 rounded-lg shadow-sm  items-center px-4 py-2 items-center gap-4 bg-white border border-gray-200 rounded-lg">
                 {DatesAll.map((item, index) => (
                     <React.Fragment key={index}>
                         <DateDetails item={item} />
