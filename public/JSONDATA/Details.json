@@ -1,0 +1,43 @@
+[
+    {
+      "icon": "ContactIcon",
+      "name": "Total Customers",
+      "count": 3301
+    },
+    {
+      "icon": "ContextIcon",
+      "name": "Total Orders",
+      "count": 10457
+    },
+    {
+      "icon": "ContextIcon",
+      "name": "Complete Orders",
+      "count": 3000
+    },
+    {
+      "icon": "ContextIcon",
+      "name": "Cancel Orders",
+      "count": 240
+    },
+    {
+      "icon": "FoodIcon",
+      "name": "Restaurant Partners",
+      "count": 1200
+    },
+    {
+      "icon": "RiderIcon",
+      "name": "Rider Partners",
+      "count": 3628
+    },
+    {
+      "icon": "ApprovedIcon",
+      "name": "Approved Riders",
+      "count": 17349
+    },
+    {
+      "icon": "ActiveIcon",
+      "name": "Coupons Active",
+      "count": 1393
+    }
+  ]
+  
